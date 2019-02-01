@@ -1,0 +1,2 @@
+# Tamer-Udacity-Investigate-No-Show-Medical-Appointments-in-Brazil-May-2016-Dataset
+using Anaconda 3 Jupyter notebook, pandas, python, numpy , Matplotlib and seaborn to invistegate a dataset called (no_show medical appointment in Brazil may 2016) also visualization to make the follow  five steps of investigation : Data Wrangling, Data Cleaning, Exploratory Data Analysis&amp;visualizations, Conclusions, Communications
